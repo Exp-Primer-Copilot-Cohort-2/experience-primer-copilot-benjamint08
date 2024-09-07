@@ -1,4 +1,4 @@
-// Create a web server
+// Create web server
 // Access: http://localhost:3000/
 
 const express = require('express');
