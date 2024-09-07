@@ -1,4 +1,4 @@
-git pull// Run: node comments.js
+// Create a web server
 // Access: http://localhost:3000/
 
 const express = require('express');
